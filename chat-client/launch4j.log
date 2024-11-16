@@ -1,0 +1,47 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\gapon\OneDrive\Рабочий стол\GeekBrains\Java Junior\lesson5\chat-client\chat.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\gapon\OneDrive\Рабочий стол\GeekBrains\Java Junior\lesson5\chat-client\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Cloudflare\Cloudflare WARP\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Common Files\Autodesk Shared\;C:\Program Files\Git\cmd;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\AmneziaWG\;C:\Users\gapon\AppData\Local\Microsoft\WindowsApps;C:\Users\gapon\.dotnet\tools;C:\Users\gapon\AppData\Local\Programs\Microsoft VS Code\bin;E:\pycharm\PyCharm Community Edition 2023.3.3\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2023.3.4\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.3.4\bin;C:\Program Files\JetBrains\CLion 2024.1.1\bin;C:\Users\gapon\AppData\Local\JetBrains\Toolbox\scripts;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.2.0.2\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2024.2.3\bin;C:\Program Files (x86)\Java\jre1.8.0_301\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Cloudflare\Cloudflare WARP\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Common Files\Autodesk Shared\;C:\Program Files\Git\cmd;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\AmneziaWG\;C:\Users\gapon\AppData\Local\Microsoft\WindowsApps;C:\Users\gapon\.dotnet\tools;C:\Users\gapon\AppData\Local\Programs\Microsoft VS Code\bin;E:\pycharm\PyCharm Community Edition 2023.3.3\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2023.3.4\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.3.4\bin;C:\Program Files\JetBrains\CLion 2024.1.1\bin;C:\Users\gapon\AppData\Local\JetBrains\Toolbox\scripts;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.2.0.2\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2024.2.3\bin;C:\Program Files (x86)\Java\jre1.8.0_301\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Cloudflare\Cloudflare WARP\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft SQL Server\120\Tools\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Autodesk Shared\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Docker\Docker\resources\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\AmneziaWG\bin\javaw.exe (not found)
+Check launcher:	C:\Users\gapon\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\gapon\.dotnet\tools\bin\javaw.exe (not found)
+Check launcher:	C:\Users\gapon\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	E:\pycharm\PyCharm Community Edition 2023.3.3\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\IntelliJ IDEA 2023.3.4\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.3.4\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\CLion 2024.1.1\bin\javaw.exe (not found)
+Check launcher:	C:\Users\gapon\AppData\Local\JetBrains\Toolbox\scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.2.0.2\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\IntelliJ IDEA 2024.2.3\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Java\jre1.8.0_301\bin\javaw.exe (OK)
+Version string: 1.008.000_301 / 32-Bit (OK)
+Launcher:	C:\Program Files (x86)\Java\jre1.8.0_301\bin\javaw.exe
+Launcher args:	-jar "C:\Users\gapon\OneDrive\Рабочий стол\GeekBrains\Java Junior\lesson5\chat-client\chat.exe"
+Args length:	95/32768 chars
+Exit code:	0
